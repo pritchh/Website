@@ -1,0 +1,296 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-size: 70%;
+}
+
+p{
+  font-family: Nanum Gothic Coding;
+}
+div{
+  font-family: Nanum Gothic Coding;
+}
+
+
+
+.main-body{
+
+  color:rgb(206, 219, 238);
+  background-color: transparent;  
+  text-shadow: 5px 6px 6px rgba(198, 215, 238, 0.11);
+
+}
+.introduction{
+  font-family: Roboto Mono;
+  font-size: 57px;
+}
+
+  .please{
+    font-size: 15px;
+  }
+
+
+
+.resume-link{
+  
+  font-family: Nanum Gothic Coding;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: color 0.3s ;
+  transition: background-color 0.15s;
+  border-radius: 5px;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+
+} 
+
+.resume-link:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.resume-link:active{
+  opacity:0.6;
+}
+
+.projects-link{
+  font-family: Nanum Gothic Coding;
+  margin-bottom: 20px ;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: background-color 0.15s;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+  border-radius: 5px;
+
+}
+.projects-link:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.projects-link:active{
+  opacity:0.6;
+}
+
+
+
+.linkedin-link{
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: background-color 0.15s;
+  font-family: Nanum Gothic Coding;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+  border-radius: 5px;
+
+
+}
+.linkedin-link:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.linkedin-link:active{
+  opacity:0.6;
+ 
+}
+
+
+
+.github-link{
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: background-color 0.15s;
+  font-family: Nanum Gothic Coding;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+  border-radius: 5px;
+
+
+}
+.github-link:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.github-link:active{
+  opacity:0.6;
+}
+
+
+
+.instagram-link{
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: background-color 0.15s;
+  font-family: Nanum Gothic Coding;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+  border-radius: 5px;
+
+
+}
+.instagram-link:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.instagram-link:active{
+  opacity:0.6;
+}
+
+.contact{
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: background-color 0.15s;
+  font-family: Nanum Gothic Coding;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+  border-radius: 5px;
+
+
+}
+.contact:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.contact:active{
+  opacity:0.6;
+}
+
+.home{
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(221, 231, 247);
+  transition: background-color 0.15s;
+  font-family: Nanum Gothic Coding;
+  box-shadow: 5px 6px 6px rgba(198, 215, 238, 0.1);
+  border-radius: 5px;
+  margin-right: 50px;
+
+
+}
+.home:hover{
+  color:rgb(35, 37, 41);
+  background-color: white;
+  opacity:0.9;
+
+
+}
+.home:active{
+  opacity:0.6;
+}
+
+
+
+
+
+
+
+.owen-hyper{
+  color: rgb(212, 175, 55);
+}
+.BSEng-hyper{
+  color: rgb(145, 53, 53);
+}
+
+.vikes-hyper{
+  color:rgb(64, 91, 179);
+}
+
+
+
+.robot-video{
+  
+  height: 350px;
+  width: auto;
+  box-shadow: 5px 8px 8px rgba(198, 215, 238, 0.9);
+  display: block;
+
+}
+
+.robot-project-title{
+  color:rgb(206, 219, 238);
+  background-color: transparent;  
+  text-shadow: 5px 6px 6px rgba(198, 215, 238, 0.11);
+  font-size: 40px;
+  text-align: center;
+}
+.robot-description{
+  text-align: center;
+  color:rgb(197, 203, 212);
+  background-color: transparent;  
+  text-shadow: 5px 6px 6px rgba(198, 215, 238, 0.11);
+  font-size: 17px;
+}
+.robot-hyper{
+  color:rgb(197, 203, 212);
+  
+
+}
+.website-title{
+  color:rgb(206, 219, 238);
+  background-color: transparent;  
+  text-shadow: 5px 6px 6px rgba(198, 215, 238, 0.11);
+  font-size: 40px;
+  text-align: center;
+}
+
+.robot-subtitle{
+  font-size: 23px;
+  text-align: center;
+  color:rgb(197, 203, 212);
+  background-color: transparent;  
+  text-shadow: 5px 6px 6px rgba(198, 215, 238, 0.11);
+}
+
+.contact-page{
+  color:rgb(197, 203, 212);
+  background-color: transparent;  
+  font-size: 17px;
+  margin-top: 20px
+}
+
+.robot-photo{
+  height: 195px;
+  width: auto;
+display: block;
+margin-right: auto;
+margin-left: auto;
+box-shadow: 3px 5px 5px rgba(198, 215, 238, 0.9);
+
+}
